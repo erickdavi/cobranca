@@ -1,5 +1,5 @@
 @cache = Array.new
-@dir_input = "../in/"
+@dir_input = "../in/cadastro/"
 
 def selecionar_ano(ano)
 	arq_base = @dir_input+ano.to_s+'.csv'
