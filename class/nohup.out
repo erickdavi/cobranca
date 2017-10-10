@@ -1,0 +1,2566 @@
+error reading list 1 Erro ao abrir arquivo: Arquivo ou diretório não encontrado
+
+** (bluefish:5071): WARNING **: no configfile rcfile-2.0, try to convert config files from older versions
+
+config file migration error 1:Erro ao abrir arquivo: Arquivo ou diretório não encontradoerror reading list 1 Erro ao abrir arquivo: Arquivo ou diretório não encontrado
+cleanup_scanner, memory scancache 0(0Kb+0Kb) found 0(0Kb) fcontext 0(0Kb) = 0Kb
+cleanup_scanner, memory scancache 0(0Kb+0Kb) found 0(0Kb) fcontext 0(0Kb) = 0Kb
+Language statistics for Ruby from /usr/share/bluefish/bflang//ruby.bflang2
+reference size            0,00 Kbytes
+largest table   116 (    29,00 Kbytes)
+total tables    136 (    34,00 Kbytes)
+contexts          5 (     0,23 Kbytes)
+matches          44 (     2,06 Kbytes)
+blocks            3 (     0,09 Kbytes)
+cleanup_scanner, memory scancache 0(0Kb+0Kb) found 0(0Kb) fcontext 0(0Kb) = 0Kb
+scanning run 1 (2 ms): 0, 0, 0, 2; from 0-1813, loops=2150,chars=1813,blocks 41/41 (0) contexts 10/10 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 906500 chars/s 1813 chars/run
+scancache integrity check done in 0,030000 ms.
+error reading list 1 Erro ao abrir arquivo: Arquivo ou diretório não encontrado
+
+** (bluefish:5088): WARNING **: no configfile rcfile-2.0, try to convert config files from older versions
+
+config file migration error 1:Erro ao abrir arquivo: Arquivo ou diretório não encontradoerror reading list 1 Erro ao abrir arquivo: Arquivo ou diretório não encontrado
+cleanup_scanner, memory scancache 0(0Kb+0Kb) found 0(0Kb) fcontext 0(0Kb) = 0Kb
+cleanup_scanner, memory scancache 0(0Kb+0Kb) found 0(0Kb) fcontext 0(0Kb) = 0Kb
+Language statistics for Ruby from /usr/share/bluefish/bflang//ruby.bflang2
+reference size            0,00 Kbytes
+largest table   116 (    29,00 Kbytes)
+total tables    136 (    34,00 Kbytes)
+contexts          5 (     0,23 Kbytes)
+matches          44 (     2,06 Kbytes)
+blocks            3 (     0,09 Kbytes)
+cleanup_scanner, memory scancache 0(0Kb+0Kb) found 0(0Kb) fcontext 0(0Kb) = 0Kb
+scanning run 1 (2 ms): 0, 0, 0, 2; from 0-1813, loops=2150,chars=1813,blocks 41/41 (0) contexts 10/10 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 906500 chars/s 1813 chars/run
+scancache integrity check done in 0,029000 ms.
+scanning run 2 (0 ms): 0, 0, 0, 0; from 0-1, loops=2,chars=1,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 907000 chars/s 907 chars/run
+Nothing to scan anymore, total run timer took 86 ms
+scanning run 3 (0 ms): 0, 0, 0, 0; from 1806-1811, loops=7,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 909500 chars/s 606 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 4 (0 ms): 0, 0, 0, 0; from 1806-1812, loops=8,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 912500 chars/s 456 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 5 (0 ms): 0, 0, 0, 0; from 1811-1813, loops=3,chars=2,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 913500 chars/s 365 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 6 (0 ms): 0, 0, 0, 0; from 1811-1814, loops=4,chars=3,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 915000 chars/s 305 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 7 (0 ms): 0, 0, 0, 0; from 1813-1816, loops=5,chars=3,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 916500 chars/s 261 chars/run
+Nothing to scan anymore, total run timer took 8 ms
+scanning run 8 (0 ms): 0, 0, 0, 0; from 1813-1817, loops=6,chars=4,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 918500 chars/s 229 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 9 (0 ms): 0, 0, 0, 0; from 1813-1818, loops=7,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 921000 chars/s 204 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 10 (0 ms): 0, 0, 0, 0; from 1813-1819, loops=8,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 924000 chars/s 184 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 11 (0 ms): 0, 0, 0, 0; from 1813-1820, loops=10,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 927500 chars/s 168 chars/run
+Nothing to scan anymore, total run timer took 8 ms
+scanning run 12 (0 ms): 0, 0, 0, 0; from 1813-1821, loops=11,chars=8,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 931500 chars/s 155 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 13 (0 ms): 0, 0, 0, 0; from 1813-1822, loops=12,chars=9,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 936000 chars/s 144 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 14 (0 ms): 0, 0, 0, 0; from 1813-1823, loops=13,chars=10,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 941000 chars/s 134 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 15 (0 ms): 0, 0, 0, 0; from 1813-1824, loops=14,chars=11,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 946500 chars/s 126 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 16 (0 ms): 0, 0, 0, 0; from 1813-1825, loops=15,chars=12,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 952500 chars/s 119 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 17 (0 ms): 0, 0, 0, 0; from 1813-1826, loops=16,chars=13,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 959000 chars/s 112 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 18 (0 ms): 0, 0, 0, 0; from 1813-1827, loops=17,chars=14,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 966000 chars/s 107 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 19 (0 ms): 0, 0, 0, 0; from 1813-1828, loops=18,chars=15,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 973500 chars/s 102 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 20 (0 ms): 0, 0, 0, 0; from 1813-1829, loops=19,chars=16,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 981500 chars/s 98 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 21 (0 ms): 0, 0, 0, 0; from 1813-1830, loops=20,chars=17,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 990000 chars/s 94 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 22 (0 ms): 0, 0, 0, 0; from 1813-1831, loops=21,chars=18,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 999000 chars/s 90 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 23 (0 ms): 0, 0, 0, 0; from 1813-1832, loops=22,chars=19,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1008500 chars/s 87 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 24 (0 ms): 0, 0, 0, 0; from 1813-1833, loops=23,chars=20,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1018500 chars/s 84 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 25 (0 ms): 0, 0, 0, 0; from 1813-1833, loops=23,chars=20,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1028500 chars/s 82 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 26 (0 ms): 0, 0, 0, 0; from 1813-1834, loops=24,chars=21,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1039000 chars/s 79 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 27 (0 ms): 0, 0, 0, 0; from 1833-1836, loops=5,chars=3,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1040500 chars/s 77 chars/run
+Nothing to scan anymore, total run timer took 9 ms
+scanning run 28 (0 ms): 0, 0, 0, 0; from 1833-1837, loops=6,chars=4,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1042500 chars/s 74 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 29 (0 ms): 0, 0, 0, 0; from 1833-1838, loops=7,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1045000 chars/s 72 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 30 (0 ms): 0, 0, 0, 0; from 1813-1833, loops=23,chars=20,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1055000 chars/s 70 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 31 (0 ms): 0, 0, 0, 0; from 1813-1834, loops=24,chars=21,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1065500 chars/s 68 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 32 (0 ms): 0, 0, 0, 0; from 1833-1836, loops=4,chars=3,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1067000 chars/s 66 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 33 (0 ms): 0, 0, 0, 0; from 1833-1837, loops=5,chars=4,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1069000 chars/s 64 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 34 (0 ms): 0, 0, 0, 0; from 1833-1838, loops=7,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1071500 chars/s 63 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 35 (0 ms): 0, 0, 0, 0; from 1833-1839, loops=8,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1074500 chars/s 61 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 36 (0 ms): 0, 0, 0, 0; from 1833-1840, loops=9,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1078000 chars/s 59 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 37 (0 ms): 0, 0, 0, 0; from 1833-1841, loops=10,chars=8,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1082000 chars/s 58 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 38 (0 ms): 0, 0, 0, 0; from 1833-1842, loops=11,chars=9,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1086500 chars/s 57 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 39 (0 ms): 0, 0, 0, 0; from 1833-1843, loops=12,chars=10,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1091500 chars/s 55 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 40 (0 ms): 0, 0, 0, 0; from 1833-1844, loops=13,chars=11,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1097000 chars/s 54 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 41 (0 ms): 0, 0, 0, 0; from 1833-1845, loops=14,chars=12,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1103000 chars/s 53 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 42 (0 ms): 0, 0, 0, 0; from 1833-1846, loops=15,chars=13,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1109500 chars/s 52 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 43 (0 ms): 0, 0, 0, 0; from 1833-1847, loops=16,chars=14,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1116500 chars/s 51 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 44 (0 ms): 0, 0, 0, 0; from 1833-1848, loops=17,chars=15,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1124000 chars/s 51 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 45 (0 ms): 0, 0, 0, 0; from 1833-1849, loops=18,chars=16,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1132000 chars/s 50 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 46 (0 ms): 0, 0, 0, 0; from 1833-1850, loops=19,chars=17,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1140500 chars/s 49 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 47 (0 ms): 0, 0, 0, 0; from 1833-1851, loops=20,chars=18,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1149500 chars/s 48 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 48 (0 ms): 0, 0, 0, 0; from 1833-1852, loops=21,chars=19,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1159000 chars/s 48 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 49 (0 ms): 0, 0, 0, 0; from 1833-1853, loops=22,chars=20,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1169000 chars/s 47 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 50 (0 ms): 0, 0, 0, 0; from 1833-1854, loops=24,chars=21,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1179500 chars/s 47 chars/run
+Nothing to scan anymore, total run timer took 8 ms
+scanning run 51 (0 ms): 0, 0, 0, 0; from 1833-1855, loops=25,chars=22,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1190500 chars/s 46 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 52 (0 ms): 0, 0, 0, 0; from 1833-1856, loops=26,chars=23,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1202000 chars/s 46 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 53 (0 ms): 0, 0, 0, 0; from 1833-1857, loops=27,chars=24,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1214000 chars/s 45 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 54 (0 ms): 0, 0, 0, 0; from 1833-1858, loops=28,chars=25,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1226500 chars/s 45 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 55 (0 ms): 0, 0, 0, 0; from 1833-1859, loops=30,chars=26,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1239500 chars/s 45 chars/run
+Nothing to scan anymore, total run timer took 7 ms
+scanning run 56 (0 ms): 0, 0, 0, 0; from 1833-1860, loops=31,chars=27,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1253000 chars/s 44 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 57 (0 ms): 0, 0, 0, 0; from 1833-1861, loops=32,chars=28,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1267000 chars/s 44 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 58 (0 ms): 0, 0, 0, 0; from 1833-1862, loops=33,chars=29,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1281500 chars/s 44 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 59 (0 ms): 0, 0, 0, 0; from 1833-1863, loops=35,chars=30,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1296500 chars/s 43 chars/run
+Nothing to scan anymore, total run timer took 8 ms
+scanning run 60 (0 ms): 0, 0, 0, 0; from 1833-1864, loops=36,chars=31,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1312000 chars/s 43 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 61 (0 ms): 0, 0, 0, 0; from 1833-1865, loops=37,chars=32,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1328000 chars/s 43 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 62 (0 ms): 0, 0, 0, 0; from 1833-1866, loops=38,chars=33,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1344500 chars/s 43 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 63 (0 ms): 0, 0, 0, 0; from 1833-1866, loops=38,chars=33,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1361000 chars/s 43 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 64 (0 ms): 0, 0, 0, 0; from 1833-1868, loops=40,chars=35,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1378500 chars/s 43 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 65 (0 ms): 0, 0, 0, 0; from 1866-1869, loops=4,chars=3,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1380000 chars/s 42 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 66 (0 ms): 0, 0, 0, 0; from 1866-1871, loops=6,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1382500 chars/s 41 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 67 (0 ms): 0, 0, 0, 0; from 1869-1873, loops=6,chars=4,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1384500 chars/s 41 chars/run
+Nothing to scan anymore, total run timer took 8 ms
+scanning run 68 (0 ms): 0, 0, 0, 0; from 1869-1874, loops=7,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1387000 chars/s 40 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 69 (0 ms): 0, 0, 0, 0; from 1869-1875, loops=8,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1390000 chars/s 40 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 70 (0 ms): 0, 0, 0, 0; from 1866-1870, loops=5,chars=4,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1392000 chars/s 39 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 71 (0 ms): 0, 0, 0, 0; from 1866-1871, loops=7,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1394500 chars/s 39 chars/run
+Nothing to scan anymore, total run timer took 7 ms
+scanning run 72 (0 ms): 0, 0, 0, 0; from 1866-1872, loops=8,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1397500 chars/s 38 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 73 (0 ms): 0, 0, 0, 0; from 1866-1873, loops=9,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1401000 chars/s 38 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 74 (0 ms): 0, 0, 0, 0; from 1866-1872, loops=8,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1404000 chars/s 37 chars/run
+Nothing to scan anymore, total run timer took 7 ms
+scanning run 75 (0 ms): 0, 0, 0, 0; from 1866-1871, loops=7,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1406500 chars/s 37 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 76 (0 ms): 0, 0, 0, 0; from 1866-1870, loops=5,chars=4,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1408500 chars/s 37 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 77 (0 ms): 0, 0, 0, 0; from 1866-1871, loops=7,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1411000 chars/s 36 chars/run
+Nothing to scan anymore, total run timer took 7 ms
+scanning run 78 (0 ms): 0, 0, 0, 0; from 1866-1872, loops=8,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1414000 chars/s 36 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 79 (0 ms): 0, 0, 0, 0; from 1866-1873, loops=9,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1417500 chars/s 35 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 80 (0 ms): 0, 0, 0, 0; from 1866-1874, loops=10,chars=8,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1421500 chars/s 35 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 81 (0 ms): 0, 0, 0, 0; from 1866-1875, loops=11,chars=9,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1426000 chars/s 35 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 82 (0 ms): 0, 0, 0, 0; from 1866-1876, loops=12,chars=10,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1431000 chars/s 34 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 83 (0 ms): 0, 0, 0, 0; from 1866-1877, loops=13,chars=11,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1436500 chars/s 34 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 84 (0 ms): 0, 0, 0, 0; from 1866-1878, loops=15,chars=12,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1442500 chars/s 34 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 85 (0 ms): 0, 0, 0, 0; from 1866-1879, loops=16,chars=13,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1449000 chars/s 34 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 86 (0 ms): 0, 0, 0, 0; from 1866-1880, loops=18,chars=14,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1456000 chars/s 33 chars/run
+Nothing to scan anymore, total run timer took 7 ms
+scanning run 87 (0 ms): 0, 0, 0, 0; from 1866-1881, loops=19,chars=15,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1463500 chars/s 33 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 88 (0 ms): 0, 0, 0, 0; from 1866-1882, loops=20,chars=16,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1471500 chars/s 33 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 89 (0 ms): 0, 0, 0, 0; from 1866-1883, loops=21,chars=17,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1480000 chars/s 33 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 90 (0 ms): 0, 0, 0, 0; from 1866-1884, loops=22,chars=18,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1489000 chars/s 33 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 91 (0 ms): 0, 0, 0, 0; from 1866-1885, loops=24,chars=19,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1498500 chars/s 32 chars/run
+Nothing to scan anymore, total run timer took 7 ms
+scanning run 92 (0 ms): 0, 0, 0, 0; from 1866-1886, loops=25,chars=20,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1508500 chars/s 32 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 93 (0 ms): 0, 0, 0, 0; from 1866-1887, loops=26,chars=21,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1519000 chars/s 32 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 94 (0 ms): 0, 0, 0, 0; from 1866-1888, loops=27,chars=22,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1530000 chars/s 32 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 95 (0 ms): 0, 0, 0, 0; from 1866-1889, loops=28,chars=23,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1541500 chars/s 32 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 96 (0 ms): 0, 0, 0, 0; from 1866-1890, loops=29,chars=24,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1553500 chars/s 32 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 97 (0 ms): 0, 0, 0, 0; from 1866-1891, loops=30,chars=25,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1566000 chars/s 32 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 98 (0 ms): 0, 0, 0, 0; from 1866-1892, loops=31,chars=26,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1579000 chars/s 32 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 99 (0 ms): 0, 0, 0, 0; from 1866-1893, loops=32,chars=27,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1592500 chars/s 32 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 100 (0 ms): 0, 0, 0, 0; from 1866-1894, loops=33,chars=28,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1606500 chars/s 32 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 101 (0 ms): 0, 0, 0, 0; from 1866-1895, loops=34,chars=29,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1621000 chars/s 32 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 102 (0 ms): 0, 0, 0, 0; from 1866-1896, loops=35,chars=30,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1636000 chars/s 32 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 103 (0 ms): 0, 0, 0, 0; from 1866-1897, loops=36,chars=31,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1651500 chars/s 32 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 104 (0 ms): 0, 0, 0, 0; from 1866-1898, loops=37,chars=32,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1667500 chars/s 32 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 105 (0 ms): 0, 0, 0, 0; from 1866-1899, loops=38,chars=33,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1684000 chars/s 32 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 106 (0 ms): 0, 0, 0, 0; from 1866-1900, loops=39,chars=34,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1701000 chars/s 32 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 107 (0 ms): 0, 0, 0, 0; from 1866-1916, loops=59,chars=50,blocks 1/1 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 1726000 chars/s 32 chars/run
+scancache integrity check done in 0,041000 ms.
+scanning run 108 (0 ms): 0, 0, 0, 0; from 1866-1903, loops=45,chars=37,blocks 0/0 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 1744500 chars/s 32 chars/run
+Nothing to scan anymore, total run timer took 2597 ms
+scanning run 109 (0 ms): 0, 0, 0, 0; from 1900-1904, loops=7,chars=4,blocks 0/0 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 1746500 chars/s 32 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 110 (0 ms): 0, 0, 0, 0; from 1900-1905, loops=8,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 1749000 chars/s 31 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 111 (0 ms): 0, 0, 0, 0; from 1900-1906, loops=10,chars=6,blocks 1/1 (0) contexts 0/0 (0) scancache 105
+memory scancache 105(2Kb+4Kb) found 43(1Kb) fcontext 10(0Kb) = 8Kb
+average 1752000 chars/s 31 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 112 (0 ms): 0, 0, 0, 0; from 1900-1907, loops=11,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 105
+memory scancache 105(2Kb+4Kb) found 43(1Kb) fcontext 10(0Kb) = 8Kb
+average 1755500 chars/s 31 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 113 (0 ms): 0, 0, 0, 0; from 1904-1908, loops=7,chars=4,blocks 0/0 (0) contexts 0/0 (0) scancache 105
+memory scancache 105(2Kb+4Kb) found 43(1Kb) fcontext 10(0Kb) = 8Kb
+average 1757500 chars/s 31 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 114 (0 ms): 0, 0, 0, 0; from 1904-1909, loops=8,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 105
+memory scancache 105(2Kb+4Kb) found 43(1Kb) fcontext 10(0Kb) = 8Kb
+average 1760000 chars/s 30 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 115 (0 ms): 0, 0, 0, 0; from 1904-1910, loops=9,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 105
+memory scancache 105(2Kb+4Kb) found 43(1Kb) fcontext 10(0Kb) = 8Kb
+average 1763000 chars/s 30 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 116 (0 ms): 0, 0, 0, 0; from 1904-1911, loops=11,chars=7,blocks 0/2 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 43(1Kb) fcontext 10(0Kb) = 8Kb
+average 1766500 chars/s 30 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 117 (0 ms): 0, 0, 0, 0; from 1787-1817, loops=38,chars=30,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1781500 chars/s 30 chars/run
+scancache integrity check done in 0,041000 ms.
+scanning run 118 (0 ms): 0, 0, 0, 0; from 1806-1816, loops=12,chars=10,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1786500 chars/s 30 chars/run
+scancache integrity check done in 0,032000 ms.
+scanning run 119 (0 ms): 0, 0, 0, 0; from 1806-1815, loops=11,chars=9,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1791000 chars/s 30 chars/run
+scancache integrity check done in 0,033000 ms.
+scanning run 120 (0 ms): 0, 0, 0, 0; from 1800-1814, loops=17,chars=14,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1798000 chars/s 29 chars/run
+scancache integrity check done in 0,036000 ms.
+scanning run 121 (0 ms): 0, 0, 0, 0; from 375-377, loops=3,chars=2,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1799000 chars/s 29 chars/run
+Nothing to scan anymore, total run timer took 196739 ms
+scanning run 122 (0 ms): 0, 0, 0, 0; from 375-379, loops=5,chars=4,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1801000 chars/s 29 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 123 (0 ms): 0, 0, 0, 0; from 377-380, loops=4,chars=3,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1802500 chars/s 29 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 124 (0 ms): 0, 0, 0, 0; from 377-382, loops=6,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1805000 chars/s 29 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 125 (0 ms): 0, 0, 0, 0; from 380-385, loops=7,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1807500 chars/s 28 chars/run
+Nothing to scan anymore, total run timer took 7 ms
+scanning run 126 (0 ms): 0, 0, 0, 0; from 380-386, loops=8,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1810500 chars/s 28 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 127 (0 ms): 0, 0, 0, 0; from 380-387, loops=9,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1814000 chars/s 28 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 128 (0 ms): 0, 0, 0, 0; from 380-388, loops=10,chars=8,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1818000 chars/s 28 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 129 (0 ms): 0, 0, 0, 0; from 380-389, loops=11,chars=9,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1822500 chars/s 28 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 130 (0 ms): 0, 0, 0, 0; from 380-390, loops=13,chars=10,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1827500 chars/s 28 chars/run
+Nothing to scan anymore, total run timer took 7 ms
+scanning run 131 (0 ms): 0, 0, 0, 0; from 380-391, loops=14,chars=11,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1833000 chars/s 27 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 132 (0 ms): 0, 0, 0, 0; from 380-392, loops=15,chars=12,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1839000 chars/s 27 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 133 (0 ms): 0, 0, 0, 0; from 380-393, loops=16,chars=13,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1845500 chars/s 27 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 134 (0 ms): 0, 0, 0, 0; from 380-394, loops=17,chars=14,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1852500 chars/s 27 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 135 (0 ms): 0, 0, 0, 0; from 380-395, loops=18,chars=15,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1860000 chars/s 27 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 136 (0 ms): 0, 0, 0, 0; from 380-396, loops=19,chars=16,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1868000 chars/s 27 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 137 (0 ms): 0, 0, 0, 0; from 380-397, loops=20,chars=17,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1876500 chars/s 27 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 138 (0 ms): 0, 0, 0, 0; from 380-396, loops=19,chars=16,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1884500 chars/s 27 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 139 (0 ms): 0, 0, 0, 0; from 380-398, loops=21,chars=18,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1893500 chars/s 27 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 140 (0 ms): 0, 0, 0, 0; from 396-401, loops=7,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1896000 chars/s 27 chars/run
+Nothing to scan anymore, total run timer took 7 ms
+scanning run 141 (0 ms): 0, 0, 0, 0; from 396-402, loops=8,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1899000 chars/s 26 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 142 (0 ms): 0, 0, 0, 0; from 396-403, loops=9,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1902500 chars/s 26 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 143 (0 ms): 0, 0, 0, 0; from 396-404, loops=10,chars=8,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1906500 chars/s 26 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 144 (0 ms): 0, 0, 0, 0; from 396-405, loops=11,chars=9,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1911000 chars/s 26 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 145 (0 ms): 0, 0, 0, 0; from 396-406, loops=13,chars=10,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1916000 chars/s 26 chars/run
+Nothing to scan anymore, total run timer took 7 ms
+scanning run 146 (0 ms): 0, 0, 0, 0; from 396-407, loops=14,chars=11,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1921500 chars/s 26 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 147 (0 ms): 0, 0, 0, 0; from 396-408, loops=15,chars=12,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1927500 chars/s 26 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 148 (0 ms): 0, 0, 0, 0; from 396-409, loops=16,chars=13,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1934000 chars/s 26 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 149 (0 ms): 0, 0, 0, 0; from 396-410, loops=17,chars=14,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1941000 chars/s 26 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 150 (0 ms): 0, 0, 0, 0; from 396-411, loops=18,chars=15,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1948500 chars/s 25 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 151 (0 ms): 0, 0, 0, 0; from 396-412, loops=19,chars=16,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1956500 chars/s 25 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 152 (0 ms): 0, 0, 0, 0; from 396-413, loops=20,chars=17,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1965000 chars/s 25 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 153 (0 ms): 0, 0, 0, 0; from 1602-1607, loops=7,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1967500 chars/s 25 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 154 (0 ms): 0, 0, 0, 0; from 1602-1608, loops=8,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1970500 chars/s 25 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 155 (0 ms): 0, 0, 0, 0; from 1607-1609, loops=3,chars=2,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1971500 chars/s 25 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 156 (0 ms): 0, 0, 0, 0; from 1607-1610, loops=4,chars=3,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1973000 chars/s 25 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 157 (0 ms): 0, 0, 0, 0; from 1609-1612, loops=5,chars=3,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1974500 chars/s 25 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 158 (0 ms): 0, 0, 0, 0; from 1609-1613, loops=6,chars=4,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1976500 chars/s 25 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 159 (0 ms): 0, 0, 0, 0; from 1609-1614, loops=7,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1979000 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 160 (0 ms): 0, 0, 0, 0; from 1609-1615, loops=8,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1982000 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 161 (0 ms): 0, 0, 0, 0; from 1607-1614, loops=9,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1985500 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 162 (0 ms): 0, 0, 0, 0; from 1607-1613, loops=8,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1988500 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 163 (0 ms): 0, 0, 0, 0; from 1607-1612, loops=7,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1991000 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 164 (0 ms): 0, 0, 0, 0; from 1607-1611, loops=5,chars=4,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1993000 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 165 (0 ms): 0, 0, 0, 0; from 1609-1612, loops=5,chars=3,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1994500 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 7 ms
+scanning run 166 (0 ms): 0, 0, 0, 0; from 1609-1613, loops=6,chars=4,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1996500 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 167 (0 ms): 0, 0, 0, 0; from 1609-1614, loops=7,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 1999000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 168 (0 ms): 0, 0, 0, 0; from 1609-1615, loops=8,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 2002000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 169 (0 ms): 0, 0, 0, 0; from 1609-1616, loops=10,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 2005500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 170 (0 ms): 0, 0, 0, 0; from 1609-1617, loops=11,chars=8,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 2009500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 171 (0 ms): 0, 0, 0, 0; from 1609-1618, loops=12,chars=9,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 2014000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 172 (0 ms): 0, 0, 0, 0; from 1609-1619, loops=13,chars=10,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 2019000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 173 (0 ms): 0, 0, 0, 0; from 1609-1620, loops=14,chars=11,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 2024500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 174 (0 ms): 0, 0, 0, 0; from 1609-1621, loops=15,chars=12,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 2030500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 175 (0 ms): 0, 0, 0, 0; from 1609-1622, loops=16,chars=13,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 2037000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 176 (0 ms): 0, 0, 0, 0; from 1609-1623, loops=17,chars=14,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 2044000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 177 (0 ms): 0, 0, 0, 0; from 1609-1624, loops=18,chars=15,blocks 0/0 (0) contexts 0/0 (0) scancache 102
+memory scancache 102(2Kb+3Kb) found 41(1Kb) fcontext 10(0Kb) = 7Kb
+average 2051500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 178 (0 ms): 0, 0, 0, 0; from 1609-1648, loops=46,chars=39,blocks 1/1 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 2071000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 179 (0 ms): 0, 0, 0, 0; from 1609-1627, loops=24,chars=18,blocks 0/0 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 2080000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 8 ms
+scanning run 180 (0 ms): 0, 0, 0, 0; from 1624-1628, loops=7,chars=4,blocks 0/0 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 2082000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 181 (0 ms): 0, 0, 0, 0; from 1624-1629, loops=8,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 2084500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 182 (0 ms): 0, 0, 0, 0; from 1624-1629, loops=8,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 2087000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 183 (0 ms): 0, 0, 0, 0; from 1628-1630, loops=3,chars=2,blocks 0/0 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 2088000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 184 (0 ms): 0, 0, 0, 0; from 1629-1632, loops=5,chars=3,blocks 0/0 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 2089500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 8 ms
+scanning run 185 (0 ms): 0, 0, 0, 0; from 1629-1633, loops=6,chars=4,blocks 0/0 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 2091500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 186 (0 ms): 0, 0, 0, 0; from 1629-1634, loops=7,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 2094000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 187 (0 ms): 0, 0, 0, 0; from 1629-1631, loops=3,chars=2,blocks 0/0 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 2095000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 188 (0 ms): 0, 0, 0, 0; from 1629-1632, loops=4,chars=3,blocks 0/0 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 2096500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 189 (0 ms): 0, 0, 0, 0; from 1628-1630, loops=3,chars=2,blocks 0/0 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 2097500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 190 (0 ms): 0, 0, 0, 0; from 1629-1633, loops=5,chars=4,blocks 0/0 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 2099500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 191 (0 ms): 0, 0, 0, 0; from 1629-1634, loops=7,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 2102000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 7 ms
+scanning run 192 (0 ms): 0, 0, 0, 0; from 1629-1635, loops=8,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 2105000 chars/s 21 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 193 (0 ms): 0, 0, 0, 0; from 1629-1636, loops=9,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 2108500 chars/s 21 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 194 (0 ms): 0, 0, 0, 0; from 1629-1637, loops=11,chars=8,blocks 0/0 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 2112500 chars/s 21 chars/run
+Nothing to scan anymore, total run timer took 9 ms
+scanning run 195 (0 ms): 0, 0, 0, 0; from 1629-1638, loops=12,chars=9,blocks 0/0 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 2117000 chars/s 21 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 196 (0 ms): 0, 0, 0, 0; from 1629-1639, loops=13,chars=10,blocks 0/0 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 2122000 chars/s 21 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 197 (0 ms): 0, 0, 0, 0; from 1629-1638, loops=12,chars=9,blocks 0/0 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 2126500 chars/s 21 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 198 (0 ms): 0, 0, 0, 0; from 1629-1639, loops=13,chars=10,blocks 0/0 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 2131500 chars/s 21 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 199 (0 ms): 0, 0, 0, 0; from 1629-1640, loops=14,chars=11,blocks 0/0 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 2137000 chars/s 21 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 200 (0 ms): 0, 0, 0, 0; from 1629-1641, loops=16,chars=12,blocks 0/0 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 2143000 chars/s 21 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 201 (0 ms): 0, 0, 0, 0; from 1629-1642, loops=18,chars=13,blocks 0/0 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 2149500 chars/s 21 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 202 (0 ms): 0, 0, 0, 0; from 1629-1643, loops=19,chars=14,blocks 0/0 (0) contexts 0/0 (0) scancache 104
+memory scancache 104(2Kb+4Kb) found 42(1Kb) fcontext 10(0Kb) = 8Kb
+average 2156500 chars/s 21 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 203 (0 ms): 0, 0, 0, 0; from 1629-1891, loops=269,chars=262,blocks 0/0 (0) contexts 1/0 (0) scancache 97
+memory scancache 97(2Kb+3Kb) found 38(1Kb) fcontext 11(0Kb) = 7Kb
+average 2287500 chars/s 22 chars/run
+scancache integrity check done in 0,033000 ms.
+scanning run 204 (0 ms): 0, 0, 0, 0; from 1629-1892, loops=313,chars=263,blocks 4/4 (0) contexts 0/1 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2419000 chars/s 23 chars/run
+scancache integrity check done in 0,035000 ms.
+scanning run 205 (0 ms): 0, 0, 0, 0; from 1629-1646, loops=25,chars=17,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2427500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 1958 ms
+scanning run 206 (0 ms): 0, 0, 0, 0; from 1642-1647, loops=8,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2430000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 207 (0 ms): 0, 0, 0, 0; from 1642-1648, loops=9,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2433000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 208 (0 ms): 0, 0, 0, 0; from 1642-1647, loops=8,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2435500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 209 (0 ms): 0, 0, 0, 0; from 1646-1649, loops=4,chars=3,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2437000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 210 (0 ms): 0, 0, 0, 0; from 1647-1650, loops=4,chars=3,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2438500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 211 (0 ms): 0, 0, 0, 0; from 1647-1652, loops=6,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2441000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 212 (0 ms): 0, 0, 0, 0; from 1650-1655, loops=7,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2443500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 9 ms
+scanning run 213 (0 ms): 0, 0, 0, 0; from 1650-1656, loops=8,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2446500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 214 (0 ms): 0, 0, 0, 0; from 1650-1657, loops=9,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2450000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 215 (0 ms): 0, 0, 0, 0; from 1650-1658, loops=10,chars=8,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2454000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 216 (0 ms): 0, 0, 0, 0; from 1650-1659, loops=11,chars=9,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2458500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 217 (0 ms): 0, 0, 0, 0; from 1650-1660, loops=12,chars=10,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2463500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 218 (0 ms): 0, 0, 0, 0; from 1650-1659, loops=11,chars=9,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2468000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 219 (0 ms): 0, 0, 0, 0; from 1650-1658, loops=10,chars=8,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2472000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 220 (0 ms): 0, 0, 0, 0; from 1650-1657, loops=9,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2475500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 8 ms
+scanning run 221 (0 ms): 0, 0, 0, 0; from 1650-1658, loops=10,chars=8,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2479500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 222 (0 ms): 0, 0, 0, 0; from 1650-1659, loops=11,chars=9,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2484000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 223 (0 ms): 0, 0, 0, 0; from 1650-1660, loops=12,chars=10,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2489000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 224 (0 ms): 0, 0, 0, 0; from 1650-1661, loops=14,chars=11,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2494500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 7 ms
+scanning run 225 (0 ms): 0, 0, 0, 0; from 1650-1662, loops=15,chars=12,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2500500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 226 (0 ms): 0, 0, 0, 0; from 1650-1661, loops=14,chars=11,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2506000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 7 ms
+scanning run 227 (0 ms): 0, 0, 0, 0; from 1650-1660, loops=12,chars=10,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2511000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 228 (0 ms): 0, 0, 0, 0; from 1650-1661, loops=14,chars=11,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2516500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 8 ms
+scanning run 229 (0 ms): 0, 0, 0, 0; from 1650-1662, loops=15,chars=12,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2522500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 230 (0 ms): 0, 0, 0, 0; from 1650-1663, loops=16,chars=13,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2529000 chars/s 21 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 231 (0 ms): 0, 0, 0, 0; from 1650-1664, loops=17,chars=14,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2536000 chars/s 21 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 232 (0 ms): 0, 0, 0, 0; from 1650-1665, loops=19,chars=15,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2543500 chars/s 21 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 233 (0 ms): 0, 0, 0, 0; from 1650-1666, loops=21,chars=16,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2551500 chars/s 21 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 234 (0 ms): 0, 0, 0, 0; from 1650-1667, loops=22,chars=17,blocks 0/0 (0) contexts 0/0 (0) scancache 106
+memory scancache 106(2Kb+4Kb) found 42(1Kb) fcontext 11(0Kb) = 8Kb
+average 2560000 chars/s 21 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 235 (0 ms): 0, 0, 0, 0; from 1650-1915, loops=272,chars=265,blocks 0/0 (0) contexts 1/0 (0) scancache 99
+memory scancache 99(2Kb+3Kb) found 38(1Kb) fcontext 12(0Kb) = 7Kb
+average 2692500 chars/s 22 chars/run
+scancache integrity check done in 0,033000 ms.
+scanning run 236 (0 ms): 0, 0, 0, 0; from 1650-1916, loops=316,chars=266,blocks 4/4 (0) contexts 0/1 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 2825500 chars/s 23 chars/run
+scancache integrity check done in 0,034000 ms.
+scanning run 237 (0 ms): 0, 0, 0, 0; from 1650-1915, loops=272,chars=265,blocks 0/0 (0) contexts 0/0 (0) scancache 99
+memory scancache 99(2Kb+3Kb) found 38(1Kb) fcontext 12(0Kb) = 7Kb
+average 2958000 chars/s 24 chars/run
+scancache integrity check done in 0,031000 ms.
+scanning run 238 (0 ms): 0, 0, 0, 0; from 1650-1669, loops=25,chars=19,blocks 0/0 (0) contexts 0/0 (0) scancache 99
+memory scancache 99(2Kb+3Kb) found 38(1Kb) fcontext 12(0Kb) = 7Kb
+average 2967500 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 3926 ms
+scanning run 239 (0 ms): 0, 0, 0, 0; from 1666-1670, loops=5,chars=4,blocks 0/0 (0) contexts 0/0 (0) scancache 99
+memory scancache 99(2Kb+3Kb) found 38(1Kb) fcontext 12(0Kb) = 7Kb
+average 2969500 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 240 (0 ms): 0, 0, 0, 0; from 1666-1671, loops=6,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 99
+memory scancache 99(2Kb+3Kb) found 38(1Kb) fcontext 12(0Kb) = 7Kb
+average 2972000 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 241 (0 ms): 0, 0, 0, 0; from 1666-1919, loops=299,chars=253,blocks 4/4 (0) contexts 0/1 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3098500 chars/s 25 chars/run
+scancache integrity check done in 0,032000 ms.
+scanning run 242 (0 ms): 0, 0, 0, 0; from 1666-1671, loops=8,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3101000 chars/s 25 chars/run
+Nothing to scan anymore, total run timer took 730 ms
+scanning run 243 (0 ms): 0, 0, 0, 0; from 1670-1673, loops=4,chars=3,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3102500 chars/s 25 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 244 (0 ms): 0, 0, 0, 0; from 1671-1674, loops=4,chars=3,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3104000 chars/s 25 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 245 (0 ms): 0, 0, 0, 0; from 1671-1676, loops=6,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3106500 chars/s 25 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 246 (0 ms): 0, 0, 0, 0; from 1674-1679, loops=7,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3109000 chars/s 25 chars/run
+Nothing to scan anymore, total run timer took 8 ms
+scanning run 247 (0 ms): 0, 0, 0, 0; from 1674-1680, loops=8,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3112000 chars/s 25 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 248 (0 ms): 0, 0, 0, 0; from 1674-1681, loops=9,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3115500 chars/s 25 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 249 (0 ms): 0, 0, 0, 0; from 1647-1651, loops=5,chars=4,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3117500 chars/s 25 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 250 (0 ms): 0, 0, 0, 0; from 1647-1652, loops=7,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3120000 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 251 (0 ms): 0, 0, 0, 0; from 1647-1653, loops=8,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3123000 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 252 (0 ms): 0, 0, 0, 0; from 1647-1654, loops=9,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3126500 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 253 (0 ms): 0, 0, 0, 0; from 1647-1655, loops=10,chars=8,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3130500 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 254 (0 ms): 0, 0, 0, 0; from 1647-1656, loops=12,chars=9,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3135000 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 255 (0 ms): 0, 0, 0, 0; from 1647-1657, loops=13,chars=10,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3140000 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 256 (0 ms): 0, 0, 0, 0; from 1647-1658, loops=14,chars=11,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3145500 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 257 (0 ms): 0, 0, 0, 0; from 1647-1659, loops=16,chars=12,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3151500 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 258 (0 ms): 0, 0, 0, 0; from 1647-1660, loops=17,chars=13,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3158000 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 259 (0 ms): 0, 0, 0, 0; from 1647-1661, loops=18,chars=14,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3165000 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 260 (0 ms): 0, 0, 0, 0; from 1647-1662, loops=19,chars=15,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3172500 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 261 (0 ms): 0, 0, 0, 0; from 1647-1663, loops=20,chars=16,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3180500 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 262 (0 ms): 0, 0, 0, 0; from 1647-1664, loops=21,chars=17,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3189000 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 263 (0 ms): 0, 0, 0, 0; from 1647-1665, loops=22,chars=18,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3198000 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 264 (0 ms): 0, 0, 0, 0; from 1647-1666, loops=23,chars=19,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3207500 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 265 (0 ms): 0, 0, 0, 0; from 1647-1667, loops=24,chars=20,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3217500 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 266 (0 ms): 0, 0, 0, 0; from 1647-1668, loops=25,chars=21,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3228000 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 267 (0 ms): 0, 0, 0, 0; from 1647-1669, loops=26,chars=22,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3239000 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 268 (0 ms): 0, 0, 0, 0; from 1647-1670, loops=27,chars=23,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3250500 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 269 (0 ms): 0, 0, 0, 0; from 1647-1671, loops=28,chars=24,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3262500 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 270 (0 ms): 0, 0, 0, 0; from 1647-1672, loops=29,chars=25,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3275000 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 271 (0 ms): 0, 0, 0, 0; from 1647-1673, loops=30,chars=26,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3288000 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 272 (0 ms): 0, 0, 0, 0; from 1694-1698, loops=5,chars=4,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3290000 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 273 (0 ms): 0, 0, 0, 0; from 1694-1699, loops=7,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3292500 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 274 (0 ms): 0, 0, 0, 0; from 1694-1700, loops=8,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3295500 chars/s 24 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 275 (0 ms): 0, 0, 0, 0; from 1694-1701, loops=9,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3299000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 276 (0 ms): 0, 0, 0, 0; from 1694-1702, loops=10,chars=8,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3303000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 277 (0 ms): 0, 0, 0, 0; from 1694-1703, loops=12,chars=9,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3307500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 278 (0 ms): 0, 0, 0, 0; from 1694-1704, loops=13,chars=10,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3312500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 279 (0 ms): 0, 0, 0, 0; from 1694-1705, loops=14,chars=11,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3318000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 280 (0 ms): 0, 0, 0, 0; from 1694-1706, loops=16,chars=12,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3324000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 281 (0 ms): 0, 0, 0, 0; from 1694-1707, loops=17,chars=13,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3330500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 282 (0 ms): 0, 0, 0, 0; from 1694-1708, loops=18,chars=14,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3337500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 283 (0 ms): 0, 0, 0, 0; from 1694-1709, loops=19,chars=15,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3345000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 284 (0 ms): 0, 0, 0, 0; from 1694-1710, loops=20,chars=16,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3353000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 285 (0 ms): 0, 0, 0, 0; from 1694-1711, loops=21,chars=17,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3361500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 286 (0 ms): 0, 0, 0, 0; from 1694-1712, loops=22,chars=18,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3370500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 287 (0 ms): 0, 0, 0, 0; from 1694-1713, loops=23,chars=19,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3380000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 288 (0 ms): 0, 0, 0, 0; from 1694-1714, loops=24,chars=20,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3390000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 289 (0 ms): 0, 0, 0, 0; from 1694-1715, loops=25,chars=21,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3400500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 290 (0 ms): 0, 0, 0, 0; from 1694-1716, loops=26,chars=22,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3411500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 291 (0 ms): 0, 0, 0, 0; from 1694-1717, loops=27,chars=23,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3423000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 292 (0 ms): 0, 0, 0, 0; from 1694-1718, loops=28,chars=24,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3435000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 293 (0 ms): 0, 0, 0, 0; from 1694-1719, loops=29,chars=25,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3447500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 294 (0 ms): 0, 0, 0, 0; from 1694-1719, loops=29,chars=25,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3460000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 295 (0 ms): 0, 0, 0, 0; from 1694-1722, loops=32,chars=28,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3474000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 296 (0 ms): 0, 0, 0, 0; from 1694-1720, loops=30,chars=26,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3487000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 297 (0 ms): 0, 0, 0, 0; from 1719-1725, loops=7,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3490000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 298 (0 ms): 0, 0, 0, 0; from 1719-1726, loops=9,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3493500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 8 ms
+scanning run 299 (0 ms): 0, 0, 0, 0; from 1719-1727, loops=10,chars=8,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3497500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 300 (0 ms): 0, 0, 0, 0; from 1719-1728, loops=11,chars=9,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3502000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 301 (0 ms): 0, 0, 0, 0; from 1719-1729, loops=12,chars=10,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3507000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 302 (0 ms): 0, 0, 0, 0; from 1719-1726, loops=9,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3510500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 303 (0 ms): 0, 0, 0, 0; from 1719-1728, loops=11,chars=9,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3515000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 304 (0 ms): 0, 0, 0, 0; from 1726-1733, loops=8,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3518500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 305 (0 ms): 0, 0, 0, 0; from 1726-1734, loops=10,chars=8,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3522500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 306 (0 ms): 0, 0, 0, 0; from 1726-1735, loops=11,chars=9,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3527000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 307 (0 ms): 0, 0, 0, 0; from 1726-1736, loops=12,chars=10,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3532000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 308 (0 ms): 0, 0, 0, 0; from 1726-1737, loops=13,chars=11,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3537500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 309 (0 ms): 0, 0, 0, 0; from 1726-1738, loops=15,chars=12,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3543500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 310 (0 ms): 0, 0, 0, 0; from 1726-1739, loops=16,chars=13,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3550000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 311 (0 ms): 0, 0, 0, 0; from 1726-1740, loops=18,chars=14,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3557000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 7 ms
+scanning run 312 (0 ms): 0, 0, 0, 0; from 1726-1741, loops=19,chars=15,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3564500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 313 (0 ms): 0, 0, 0, 0; from 1726-1742, loops=20,chars=16,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3572500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 314 (0 ms): 0, 0, 0, 0; from 1726-1743, loops=21,chars=17,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3581000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 315 (0 ms): 0, 0, 0, 0; from 1726-1744, loops=22,chars=18,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3590000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 316 (0 ms): 0, 0, 0, 0; from 419-434, loops=18,chars=15,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3597500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 317 (0 ms): 0, 0, 0, 0; from 419-435, loops=19,chars=16,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3605500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 318 (0 ms): 0, 0, 0, 0; from 419-436, loops=20,chars=17,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3614000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 319 (0 ms): 0, 0, 0, 0; from 419-437, loops=21,chars=18,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3623000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 320 (0 ms): 0, 0, 0, 0; from 419-438, loops=22,chars=19,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3632500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 321 (0 ms): 0, 0, 0, 0; from 419-439, loops=23,chars=20,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3642500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 322 (0 ms): 0, 0, 0, 0; from 419-440, loops=24,chars=21,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3653000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 323 (0 ms): 0, 0, 0, 0; from 419-441, loops=25,chars=22,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3664000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 324 (0 ms): 0, 0, 0, 0; from 419-442, loops=26,chars=23,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3675500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 325 (0 ms): 0, 0, 0, 0; from 419-443, loops=28,chars=24,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3687500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 326 (0 ms): 0, 0, 0, 0; from 1131-1146, loops=18,chars=15,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3695000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 327 (0 ms): 0, 0, 0, 0; from 1131-1147, loops=19,chars=16,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3703000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 328 (0 ms): 0, 0, 0, 0; from 1131-1148, loops=20,chars=17,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3711500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 329 (0 ms): 0, 0, 0, 0; from 1131-1149, loops=21,chars=18,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3720500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 330 (0 ms): 0, 0, 0, 0; from 1131-1150, loops=22,chars=19,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3730000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 331 (0 ms): 0, 0, 0, 0; from 1131-1151, loops=23,chars=20,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3740000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 332 (0 ms): 0, 0, 0, 0; from 1131-1152, loops=24,chars=21,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3750500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 333 (0 ms): 0, 0, 0, 0; from 1131-1153, loops=25,chars=22,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3761500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 334 (0 ms): 0, 0, 0, 0; from 1131-1154, loops=26,chars=23,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3773000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 335 (0 ms): 0, 0, 0, 0; from 1131-1155, loops=28,chars=24,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3785000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 336 (0 ms): 0, 0, 0, 0; from 1503-1514, loops=14,chars=11,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3790500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 337 (0 ms): 0, 0, 0, 0; from 1513-1518, loops=6,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3793000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 338 (0 ms): 0, 0, 0, 0; from 1514-1520, loops=7,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3796000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 339 (0 ms): 0, 0, 0, 0; from 1514-1521, loops=9,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3799500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 340 (0 ms): 0, 0, 0, 0; from 1514-1522, loops=10,chars=8,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3803500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 341 (0 ms): 0, 0, 0, 0; from 1514-1523, loops=11,chars=9,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3808000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 342 (0 ms): 0, 0, 0, 0; from 1514-1524, loops=12,chars=10,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3813000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 343 (0 ms): 0, 0, 0, 0; from 1514-1525, loops=13,chars=11,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3818500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 344 (0 ms): 0, 0, 0, 0; from 1514-1526, loops=14,chars=12,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3824500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 345 (0 ms): 0, 0, 0, 0; from 1514-1527, loops=15,chars=13,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3831000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 346 (0 ms): 0, 0, 0, 0; from 1514-1528, loops=16,chars=14,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3838000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 347 (0 ms): 0, 0, 0, 0; from 1514-1529, loops=17,chars=15,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3845500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 348 (0 ms): 0, 0, 0, 0; from 1514-1530, loops=18,chars=16,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3853500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 349 (0 ms): 0, 0, 0, 0; from 1514-1531, loops=19,chars=17,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3862000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 350 (0 ms): 0, 0, 0, 0; from 1514-1532, loops=20,chars=18,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3871000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 351 (0 ms): 0, 0, 0, 0; from 1514-1533, loops=21,chars=19,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3880500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 352 (0 ms): 0, 0, 0, 0; from 1514-1534, loops=22,chars=20,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3890500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 353 (0 ms): 0, 0, 0, 0; from 1514-1535, loops=23,chars=21,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3901000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 354 (0 ms): 0, 0, 0, 0; from 1514-1536, loops=24,chars=22,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3912000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 355 (0 ms): 0, 0, 0, 0; from 1514-1537, loops=26,chars=23,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3923500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 8 ms
+scanning run 356 (0 ms): 0, 0, 0, 0; from 1514-1538, loops=27,chars=24,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3935500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 357 (0 ms): 0, 0, 0, 0; from 1514-1539, loops=28,chars=25,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3948000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 358 (0 ms): 0, 0, 0, 0; from 1514-1540, loops=29,chars=26,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3961000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 359 (0 ms): 0, 0, 0, 0; from 1514-1541, loops=30,chars=27,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3974500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 360 (0 ms): 0, 0, 0, 0; from 1514-1542, loops=31,chars=28,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 3988500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 361 (0 ms): 0, 0, 0, 0; from 1514-1543, loops=32,chars=29,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4003000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 362 (0 ms): 0, 0, 0, 0; from 1514-1675, loops=184,chars=161,blocks 1/1 (0) contexts 0/0 (0) scancache 110
+memory scancache 110(2Kb+4Kb) found 43(1Kb) fcontext 12(0Kb) = 8Kb
+average 4083500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 2 ms
+scanning run 363 (0 ms): 0, 0, 0, 0; from 1514-1546, loops=37,chars=32,blocks 0/0 (0) contexts 0/0 (0) scancache 110
+memory scancache 110(2Kb+4Kb) found 43(1Kb) fcontext 12(0Kb) = 8Kb
+average 4099500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 364 (0 ms): 0, 0, 0, 0; from 1543-1547, loops=7,chars=4,blocks 0/0 (0) contexts 0/0 (0) scancache 110
+memory scancache 110(2Kb+4Kb) found 43(1Kb) fcontext 12(0Kb) = 8Kb
+average 4101500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 365 (0 ms): 0, 0, 0, 0; from 1543-1548, loops=8,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 110
+memory scancache 110(2Kb+4Kb) found 43(1Kb) fcontext 12(0Kb) = 8Kb
+average 4104000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 366 (0 ms): 0, 0, 0, 0; from 1514-1547, loops=39,chars=33,blocks 0/0 (0) contexts 0/0 (0) scancache 110
+memory scancache 110(2Kb+4Kb) found 43(1Kb) fcontext 12(0Kb) = 8Kb
+average 4120500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 367 (0 ms): 0, 0, 0, 0; from 1543-1548, loops=8,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 110
+memory scancache 110(2Kb+4Kb) found 43(1Kb) fcontext 12(0Kb) = 8Kb
+average 4123000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 368 (0 ms): 0, 0, 0, 0; from 1543-1549, loops=9,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 110
+memory scancache 110(2Kb+4Kb) found 43(1Kb) fcontext 12(0Kb) = 8Kb
+average 4126000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 369 (0 ms): 0, 0, 0, 0; from 1543-1550, loops=10,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 110
+memory scancache 110(2Kb+4Kb) found 43(1Kb) fcontext 12(0Kb) = 8Kb
+average 4129500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 370 (0 ms): 0, 0, 0, 0; from 1514-1549, loops=41,chars=35,blocks 0/0 (0) contexts 0/0 (0) scancache 110
+memory scancache 110(2Kb+4Kb) found 43(1Kb) fcontext 12(0Kb) = 8Kb
+average 4147000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 371 (0 ms): 0, 0, 0, 0; from 1543-1550, loops=10,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 110
+memory scancache 110(2Kb+4Kb) found 43(1Kb) fcontext 12(0Kb) = 8Kb
+average 4150500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 372 (0 ms): 0, 0, 0, 0; from 1543-1551, loops=12,chars=8,blocks 0/0 (0) contexts 0/0 (0) scancache 110
+memory scancache 110(2Kb+4Kb) found 43(1Kb) fcontext 12(0Kb) = 8Kb
+average 4154500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 373 (0 ms): 0, 0, 0, 0; from 1543-1552, loops=13,chars=9,blocks 0/0 (0) contexts 0/0 (0) scancache 110
+memory scancache 110(2Kb+4Kb) found 43(1Kb) fcontext 12(0Kb) = 8Kb
+average 4159000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 374 (0 ms): 0, 0, 0, 0; from 1543-1553, loops=14,chars=10,blocks 0/0 (0) contexts 0/0 (0) scancache 110
+memory scancache 110(2Kb+4Kb) found 43(1Kb) fcontext 12(0Kb) = 8Kb
+average 4164000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 375 (0 ms): 0, 0, 0, 0; from 1543-1702, loops=189,chars=159,blocks 2/2 (0) contexts 0/0 (0) scancache 111
+memory scancache 111(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 4243500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 2 ms
+scanning run 376 (0 ms): 0, 0, 0, 0; from 1543-1555, loops=17,chars=12,blocks 0/0 (0) contexts 0/0 (0) scancache 111
+memory scancache 111(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 4249500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 377 (0 ms): 0, 0, 0, 0; from 1552-1556, loops=7,chars=4,blocks 0/0 (0) contexts 0/0 (0) scancache 111
+memory scancache 111(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 4251500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 378 (0 ms): 0, 0, 0, 0; from 1552-1557, loops=8,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 111
+memory scancache 111(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 4254000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 379 (0 ms): 0, 0, 0, 0; from 1552-1558, loops=9,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 111
+memory scancache 111(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 4257000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 380 (0 ms): 0, 0, 0, 0; from 1552-1707, loops=184,chars=155,blocks 1/3 (0) contexts 0/0 (0) scancache 112
+memory scancache 112(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 4334500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 2 ms
+scanning run 381 (0 ms): 0, 0, 0, 0; from 1514-1549, loops=41,chars=35,blocks 0/0 (0) contexts 0/0 (0) scancache 110
+memory scancache 110(2Kb+4Kb) found 43(1Kb) fcontext 12(0Kb) = 8Kb
+average 4352000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 382 (0 ms): 0, 0, 0, 0; from 1543-1550, loops=10,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 110
+memory scancache 110(2Kb+4Kb) found 43(1Kb) fcontext 12(0Kb) = 8Kb
+average 4355500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 383 (0 ms): 0, 0, 0, 0; from 1514-1547, loops=39,chars=33,blocks 0/0 (0) contexts 0/0 (0) scancache 110
+memory scancache 110(2Kb+4Kb) found 43(1Kb) fcontext 12(0Kb) = 8Kb
+average 4372000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 384 (0 ms): 0, 0, 0, 0; from 1543-1548, loops=8,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 110
+memory scancache 110(2Kb+4Kb) found 43(1Kb) fcontext 12(0Kb) = 8Kb
+average 4374500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 385 (0 ms): 0, 0, 0, 0; from 1514-1545, loops=36,chars=31,blocks 0/0 (0) contexts 0/0 (0) scancache 110
+memory scancache 110(2Kb+4Kb) found 43(1Kb) fcontext 12(0Kb) = 8Kb
+average 4390000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 386 (0 ms): 0, 0, 0, 0; from 1477-1514, loops=43,chars=37,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4408500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 2 ms
+scanning run 387 (0 ms): 0, 0, 0, 0; from 1130-1144, loops=15,chars=14,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4415500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 388 (0 ms): 0, 0, 0, 0; from 1130-1135, loops=6,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4418000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 389 (0 ms): 0, 0, 0, 0; from 1047-1072, loops=28,chars=25,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4430500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 390 (0 ms): 0, 0, 0, 0; from 1047-1075, loops=31,chars=28,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4444500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 391 (0 ms): 0, 0, 0, 0; from 1072-1077, loops=6,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4447000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 392 (0 ms): 0, 0, 0, 0; from 1072-1078, loops=8,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4450000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 393 (0 ms): 0, 0, 0, 0; from 1072-1079, loops=9,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4453500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 394 (0 ms): 0, 0, 0, 0; from 1072-1080, loops=10,chars=8,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4457500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 395 (0 ms): 0, 0, 0, 0; from 1072-1081, loops=11,chars=9,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4462000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 396 (0 ms): 0, 0, 0, 0; from 1072-1082, loops=12,chars=10,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4467000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 397 (0 ms): 0, 0, 0, 0; from 1072-1083, loops=13,chars=11,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4472500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 398 (0 ms): 0, 0, 0, 0; from 1072-1084, loops=14,chars=12,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4478500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 399 (0 ms): 0, 0, 0, 0; from 1072-1085, loops=15,chars=13,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4485000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 400 (0 ms): 0, 0, 0, 0; from 1072-1086, loops=16,chars=14,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4492000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 401 (0 ms): 0, 0, 0, 0; from 1072-1087, loops=17,chars=15,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4499500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 402 (0 ms): 0, 0, 0, 0; from 1072-1086, loops=16,chars=14,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4506500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 403 (0 ms): 0, 0, 0, 0; from 1072-1087, loops=17,chars=15,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4514000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 404 (0 ms): 0, 0, 0, 0; from 1072-1088, loops=18,chars=16,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4522000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 405 (0 ms): 0, 0, 0, 0; from 1072-1089, loops=19,chars=17,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4530500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 406 (0 ms): 0, 0, 0, 0; from 1072-1090, loops=20,chars=18,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4539500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 407 (0 ms): 0, 0, 0, 0; from 1072-1091, loops=21,chars=19,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4549000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 408 (0 ms): 0, 0, 0, 0; from 1072-1092, loops=22,chars=20,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4559000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 409 (0 ms): 0, 0, 0, 0; from 1072-1093, loops=24,chars=21,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4569500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 7 ms
+scanning run 410 (0 ms): 0, 0, 0, 0; from 1072-1094, loops=25,chars=22,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4580500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 411 (0 ms): 0, 0, 0, 0; from 1072-1095, loops=26,chars=23,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4592000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 412 (0 ms): 0, 0, 0, 0; from 1072-1096, loops=27,chars=24,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4604000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 413 (0 ms): 0, 0, 0, 0; from 1072-1097, loops=28,chars=25,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4616500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 414 (0 ms): 0, 0, 0, 0; from 1072-1098, loops=29,chars=26,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4629500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 415 (0 ms): 0, 0, 0, 0; from 1072-1099, loops=30,chars=27,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4643000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 416 (0 ms): 0, 0, 0, 0; from 1072-1100, loops=31,chars=28,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 4657000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 417 (0 ms): 0, 0, 0, 0; from 1072-1192, loops=139,chars=120,blocks 1/1 (0) contexts 0/0 (0) scancache 110
+memory scancache 110(2Kb+4Kb) found 43(1Kb) fcontext 12(0Kb) = 8Kb
+average 4717000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 2 ms
+scanning run 418 (0 ms): 0, 0, 0, 0; from 1072-1103, loops=36,chars=31,blocks 0/0 (0) contexts 0/0 (0) scancache 110
+memory scancache 110(2Kb+4Kb) found 43(1Kb) fcontext 12(0Kb) = 8Kb
+average 4732500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 419 (0 ms): 0, 0, 0, 0; from 1100-1104, loops=7,chars=4,blocks 0/0 (0) contexts 0/0 (0) scancache 110
+memory scancache 110(2Kb+4Kb) found 43(1Kb) fcontext 12(0Kb) = 8Kb
+average 4734500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 420 (0 ms): 0, 0, 0, 0; from 1100-1105, loops=8,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 110
+memory scancache 110(2Kb+4Kb) found 43(1Kb) fcontext 12(0Kb) = 8Kb
+average 4737000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 421 (0 ms): 0, 0, 0, 0; from 1100-1106, loops=9,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 110
+memory scancache 110(2Kb+4Kb) found 43(1Kb) fcontext 12(0Kb) = 8Kb
+average 4740000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 422 (0 ms): 0, 0, 0, 0; from 1100-1107, loops=10,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 110
+memory scancache 110(2Kb+4Kb) found 43(1Kb) fcontext 12(0Kb) = 8Kb
+average 4743500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 423 (0 ms): 0, 0, 0, 0; from 1100-1108, loops=11,chars=8,blocks 0/0 (0) contexts 0/0 (0) scancache 110
+memory scancache 110(2Kb+4Kb) found 43(1Kb) fcontext 12(0Kb) = 8Kb
+average 4747500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 424 (0 ms): 0, 0, 0, 0; from 1100-1109, loops=13,chars=9,blocks 0/0 (0) contexts 0/0 (0) scancache 110
+memory scancache 110(2Kb+4Kb) found 43(1Kb) fcontext 12(0Kb) = 8Kb
+average 4752000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 425 (0 ms): 0, 0, 0, 0; from 1100-1110, loops=14,chars=10,blocks 0/0 (0) contexts 0/0 (0) scancache 110
+memory scancache 110(2Kb+4Kb) found 43(1Kb) fcontext 12(0Kb) = 8Kb
+average 4757000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 426 (0 ms): 0, 0, 0, 0; from 1100-1111, loops=15,chars=11,blocks 0/0 (0) contexts 0/0 (0) scancache 110
+memory scancache 110(2Kb+4Kb) found 43(1Kb) fcontext 12(0Kb) = 8Kb
+average 4762500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 427 (0 ms): 0, 0, 0, 0; from 1100-1227, loops=151,chars=127,blocks 2/2 (0) contexts 0/0 (0) scancache 111
+memory scancache 111(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 4826000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 2 ms
+scanning run 428 (0 ms): 0, 0, 0, 0; from 1100-1113, loops=18,chars=13,blocks 0/0 (0) contexts 0/0 (0) scancache 111
+memory scancache 111(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 4832500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 429 (0 ms): 0, 0, 0, 0; from 1110-1114, loops=7,chars=4,blocks 0/0 (0) contexts 0/0 (0) scancache 111
+memory scancache 111(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 4834500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 430 (0 ms): 0, 0, 0, 0; from 1110-1115, loops=8,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 111
+memory scancache 111(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 4837000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 431 (0 ms): 0, 0, 0, 0; from 1110-1116, loops=9,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 111
+memory scancache 111(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 4840000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 432 (0 ms): 0, 0, 0, 0; from 1110-1232, loops=145,chars=122,blocks 1/3 (0) contexts 0/0 (0) scancache 112
+memory scancache 112(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 4901000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 2 ms
+scanning run 433 (0 ms): 0, 0, 0, 0; from 1579-1604, loops=28,chars=25,blocks 0/0 (0) contexts 0/0 (0) scancache 112
+memory scancache 112(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 4913500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 434 (0 ms): 0, 0, 0, 0; from 1579-1606, loops=30,chars=27,blocks 0/0 (0) contexts 0/0 (0) scancache 112
+memory scancache 112(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 4927000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 435 (0 ms): 0, 0, 0, 0; from 1604-1608, loops=5,chars=4,blocks 0/0 (0) contexts 0/0 (0) scancache 112
+memory scancache 112(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 4929000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 436 (0 ms): 0, 0, 0, 0; from 1604-1609, loops=7,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 112
+memory scancache 112(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 4931500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 437 (0 ms): 0, 0, 0, 0; from 1604-1610, loops=8,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 112
+memory scancache 112(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 4934500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 438 (0 ms): 0, 0, 0, 0; from 1604-1611, loops=9,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 112
+memory scancache 112(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 4938000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 439 (0 ms): 0, 0, 0, 0; from 1604-1612, loops=10,chars=8,blocks 0/0 (0) contexts 0/0 (0) scancache 112
+memory scancache 112(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 4942000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 440 (0 ms): 0, 0, 0, 0; from 1604-1613, loops=11,chars=9,blocks 0/0 (0) contexts 0/0 (0) scancache 112
+memory scancache 112(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 4946500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 441 (0 ms): 0, 0, 0, 0; from 1604-1614, loops=12,chars=10,blocks 0/0 (0) contexts 0/0 (0) scancache 112
+memory scancache 112(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 4951500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 442 (0 ms): 0, 0, 0, 0; from 1604-1615, loops=13,chars=11,blocks 0/0 (0) contexts 0/0 (0) scancache 112
+memory scancache 112(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 4957000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 443 (0 ms): 0, 0, 0, 0; from 1604-1616, loops=14,chars=12,blocks 0/0 (0) contexts 0/0 (0) scancache 112
+memory scancache 112(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 4963000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 444 (0 ms): 0, 0, 0, 0; from 1604-1617, loops=15,chars=13,blocks 0/0 (0) contexts 0/0 (0) scancache 112
+memory scancache 112(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 4969500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 445 (0 ms): 0, 0, 0, 0; from 1604-1618, loops=16,chars=14,blocks 0/0 (0) contexts 0/0 (0) scancache 112
+memory scancache 112(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 4976500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 446 (0 ms): 0, 0, 0, 0; from 1604-1619, loops=17,chars=15,blocks 0/0 (0) contexts 0/0 (0) scancache 112
+memory scancache 112(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 4984000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 447 (0 ms): 0, 0, 0, 0; from 1604-1620, loops=18,chars=16,blocks 0/0 (0) contexts 0/0 (0) scancache 112
+memory scancache 112(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 4992000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 448 (0 ms): 0, 0, 0, 0; from 1604-1621, loops=19,chars=17,blocks 0/0 (0) contexts 0/0 (0) scancache 112
+memory scancache 112(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 5000500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 449 (0 ms): 0, 0, 0, 0; from 1604-1622, loops=20,chars=18,blocks 0/0 (0) contexts 0/0 (0) scancache 112
+memory scancache 112(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 5009500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 450 (0 ms): 0, 0, 0, 0; from 1604-1623, loops=21,chars=19,blocks 0/0 (0) contexts 0/0 (0) scancache 112
+memory scancache 112(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 5019000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 451 (0 ms): 0, 0, 0, 0; from 1604-1624, loops=22,chars=20,blocks 0/0 (0) contexts 0/0 (0) scancache 112
+memory scancache 112(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 5029000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 452 (0 ms): 0, 0, 0, 0; from 1604-1725, loops=142,chars=121,blocks 2/2 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5089500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 2 ms
+scanning run 453 (0 ms): 0, 0, 0, 0; from 1072-1118, loops=48,chars=46,blocks 0/0 (0) contexts 0/0 (0) scancache 112
+memory scancache 112(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 5112500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 454 (0 ms): 0, 0, 0, 0; from 1605-1652, loops=49,chars=47,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 5136000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 455 (0 ms): 0, 0, 0, 0; from 1605-1651, loops=48,chars=46,blocks 0/0 (0) contexts 0/0 (0) scancache 108
+memory scancache 108(2Kb+4Kb) found 42(1Kb) fcontext 12(0Kb) = 8Kb
+average 5159000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 456 (0 ms): 0, 0, 0, 0; from 1605-1725, loops=141,chars=120,blocks 2/2 (0) contexts 0/0 (0) scancache 112
+memory scancache 112(2Kb+4Kb) found 44(1Kb) fcontext 12(0Kb) = 8Kb
+average 5219000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 457 (0 ms): 0, 0, 0, 0; from 1072-1207, loops=159,chars=135,blocks 2/2 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5286500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 2 ms
+scanning run 458 (0 ms): 0, 0, 0, 0; from 1176-1191, loops=18,chars=15,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5294000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 459 (0 ms): 0, 0, 0, 0; from 1176-1192, loops=19,chars=16,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5302000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 460 (0 ms): 0, 0, 0, 0; from 1176-1193, loops=20,chars=17,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5310500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 461 (0 ms): 0, 0, 0, 0; from 1176-1194, loops=21,chars=18,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5319500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 462 (0 ms): 0, 0, 0, 0; from 1176-1195, loops=22,chars=19,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5329000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 463 (0 ms): 0, 0, 0, 0; from 1176-1196, loops=23,chars=20,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5339000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 464 (0 ms): 0, 0, 0, 0; from 1176-1197, loops=24,chars=21,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5349500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 465 (0 ms): 0, 0, 0, 0; from 1176-1198, loops=25,chars=22,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5360500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 466 (0 ms): 0, 0, 0, 0; from 1176-1199, loops=26,chars=23,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5372000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 467 (0 ms): 0, 0, 0, 0; from 1176-1200, loops=28,chars=24,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5384000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 468 (0 ms): 0, 0, 0, 0; from 1589-1615, loops=29,chars=26,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5397000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 469 (0 ms): 0, 0, 0, 0; from 1615-1661, loops=56,chars=46,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5420000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 470 (0 ms): 0, 0, 0, 0; from 1661-1687, loops=30,chars=26,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5433000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 471 (0 ms): 0, 0, 0, 0; from 1661-1672, loops=15,chars=11,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5438500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 472 (0 ms): 0, 0, 0, 0; from 1661-1673, loops=16,chars=12,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5444500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 473 (0 ms): 0, 0, 0, 0; from 1661-1674, loops=17,chars=13,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5451000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 474 (0 ms): 0, 0, 0, 0; from 1661-1675, loops=18,chars=14,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5458000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 475 (0 ms): 0, 0, 0, 0; from 1661-1674, loops=17,chars=13,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5464500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 476 (0 ms): 0, 0, 0, 0; from 1661-1673, loops=16,chars=12,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5470500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 477 (0 ms): 0, 0, 0, 0; from 1661-1672, loops=15,chars=11,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5476000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 7 ms
+scanning run 478 (0 ms): 0, 0, 0, 0; from 1661-1673, loops=16,chars=12,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5482000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 479 (0 ms): 0, 0, 0, 0; from 1661-1674, loops=17,chars=13,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5488500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 480 (0 ms): 0, 0, 0, 0; from 1661-1675, loops=18,chars=14,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5495500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 481 (0 ms): 0, 0, 0, 0; from 1559-1564, loops=6,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5498000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 482 (0 ms): 0, 0, 0, 0; from 1559-1571, loops=14,chars=12,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5504000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 483 (0 ms): 0, 0, 0, 0; from 1559-1570, loops=13,chars=11,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5509500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 484 (0 ms): 0, 0, 0, 0; from 1559-1569, loops=12,chars=10,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5514500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 485 (0 ms): 0, 0, 0, 0; from 1559-1568, loops=11,chars=9,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5519000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 486 (0 ms): 0, 0, 0, 0; from 1559-1567, loops=10,chars=8,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5523000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 487 (0 ms): 0, 0, 0, 0; from 1522-1560, loops=44,chars=38,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5542000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 488 (0 ms): 0, 0, 0, 0; from 1117-1128, loops=15,chars=11,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5547500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 489 (0 ms): 0, 0, 0, 0; from 1117-1129, loops=16,chars=12,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5553500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 490 (0 ms): 0, 0, 0, 0; from 1117-1130, loops=17,chars=13,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5560000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 491 (0 ms): 0, 0, 0, 0; from 1117-1131, loops=18,chars=14,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5567000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 492 (0 ms): 0, 0, 0, 0; from 1005-1017, loops=15,chars=12,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5573000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 493 (0 ms): 0, 0, 0, 0; from 1005-1017, loops=15,chars=12,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5579000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 494 (0 ms): 0, 0, 0, 0; from 1031-1056, loops=28,chars=25,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5591500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 495 (0 ms): 0, 0, 0, 0; from 1031-1059, loops=31,chars=28,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5605500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 496 (0 ms): 0, 0, 0, 0; from 1056-1061, loops=7,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5608000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 8 ms
+scanning run 497 (0 ms): 0, 0, 0, 0; from 1056-1062, loops=8,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5611000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 498 (0 ms): 0, 0, 0, 0; from 1056-1063, loops=9,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5614500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 499 (0 ms): 0, 0, 0, 0; from 1056-1064, loops=10,chars=8,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5618500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 500 (0 ms): 0, 0, 0, 0; from 1056-1065, loops=11,chars=9,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5623000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 501 (0 ms): 0, 0, 0, 0; from 1056-1064, loops=10,chars=8,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5627000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 502 (0 ms): 0, 0, 0, 0; from 1056-1063, loops=9,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5630500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 503 (0 ms): 0, 0, 0, 0; from 1056-1062, loops=8,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5633500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 7 ms
+scanning run 504 (0 ms): 0, 0, 0, 0; from 1056-1063, loops=9,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5637000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 505 (0 ms): 0, 0, 0, 0; from 1056-1064, loops=10,chars=8,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5641000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 506 (0 ms): 0, 0, 0, 0; from 1056-1065, loops=11,chars=9,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5645500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 507 (0 ms): 0, 0, 0, 0; from 1056-1066, loops=12,chars=10,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5650500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 508 (0 ms): 0, 0, 0, 0; from 1056-1067, loops=13,chars=11,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5656000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 509 (0 ms): 0, 0, 0, 0; from 1056-1068, loops=14,chars=12,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5662000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 510 (0 ms): 0, 0, 0, 0; from 1056-1069, loops=15,chars=13,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5668500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 511 (0 ms): 0, 0, 0, 0; from 1056-1070, loops=16,chars=14,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5675500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 512 (0 ms): 0, 0, 0, 0; from 1056-1071, loops=17,chars=15,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5683000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 513 (0 ms): 0, 0, 0, 0; from 1056-1072, loops=19,chars=16,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5691000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 514 (0 ms): 0, 0, 0, 0; from 1056-1073, loops=20,chars=17,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5699500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 515 (0 ms): 0, 0, 0, 0; from 1056-1074, loops=21,chars=18,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5708500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 516 (0 ms): 0, 0, 0, 0; from 1056-1075, loops=23,chars=19,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5718000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 517 (0 ms): 0, 0, 0, 0; from 1056-1076, loops=24,chars=20,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5728000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 518 (0 ms): 0, 0, 0, 0; from 1056-1077, loops=25,chars=21,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5738500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 519 (0 ms): 0, 0, 0, 0; from 1056-1076, loops=24,chars=20,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5748500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 520 (0 ms): 0, 0, 0, 0; from 1056-1077, loops=25,chars=21,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5759000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 521 (0 ms): 0, 0, 0, 0; from 1056-1078, loops=26,chars=22,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5770000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 522 (0 ms): 0, 0, 0, 0; from 1056-1079, loops=27,chars=23,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5781500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 523 (0 ms): 0, 0, 0, 0; from 1056-1080, loops=28,chars=24,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5793500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 524 (0 ms): 0, 0, 0, 0; from 1056-1081, loops=29,chars=25,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5806000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 525 (0 ms): 0, 0, 0, 0; from 1056-1082, loops=30,chars=26,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5819000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 526 (0 ms): 0, 0, 0, 0; from 1056-1083, loops=31,chars=27,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5832500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 527 (0 ms): 0, 0, 0, 0; from 1056-1084, loops=32,chars=28,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5846500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 528 (0 ms): 0, 0, 0, 0; from 1056-1085, loops=33,chars=29,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5861000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 529 (0 ms): 0, 0, 0, 0; from 1056-1086, loops=34,chars=30,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5876000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 530 (0 ms): 0, 0, 0, 0; from 1056-1085, loops=33,chars=29,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5890500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 531 (0 ms): 0, 0, 0, 0; from 1056-1086, loops=34,chars=30,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5905500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 532 (0 ms): 0, 0, 0, 0; from 1056-1087, loops=35,chars=31,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5921000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 533 (0 ms): 0, 0, 0, 0; from 1056-1088, loops=36,chars=32,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5937000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 534 (0 ms): 0, 0, 0, 0; from 1056-1088, loops=36,chars=32,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5953000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 535 (0 ms): 0, 0, 0, 0; from 1056-1091, loops=39,chars=35,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5970500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 536 (0 ms): 0, 0, 0, 0; from 1088-1093, loops=6,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5973000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 537 (0 ms): 0, 0, 0, 0; from 1088-1094, loops=8,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5976000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 538 (0 ms): 0, 0, 0, 0; from 1088-1095, loops=9,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5979500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 539 (0 ms): 0, 0, 0, 0; from 1088-1096, loops=10,chars=8,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5983500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 540 (0 ms): 0, 0, 0, 0; from 1088-1097, loops=11,chars=9,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5988000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 541 (0 ms): 0, 0, 0, 0; from 1088-1098, loops=12,chars=10,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5993000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 542 (0 ms): 0, 0, 0, 0; from 1088-1099, loops=13,chars=11,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 5998500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 543 (0 ms): 0, 0, 0, 0; from 1088-1100, loops=14,chars=12,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6004500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 544 (0 ms): 0, 0, 0, 0; from 1088-1101, loops=15,chars=13,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6011000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 545 (0 ms): 0, 0, 0, 0; from 1088-1102, loops=16,chars=14,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6018000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 546 (0 ms): 0, 0, 0, 0; from 1088-1103, loops=17,chars=15,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6025500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 547 (0 ms): 0, 0, 0, 0; from 1088-1104, loops=18,chars=16,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6033500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 548 (0 ms): 0, 0, 0, 0; from 1088-1105, loops=19,chars=17,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6042000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 549 (0 ms): 0, 0, 0, 0; from 1088-1106, loops=20,chars=18,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6051000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 550 (0 ms): 0, 0, 0, 0; from 1088-1107, loops=21,chars=19,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6060500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 551 (0 ms): 0, 0, 0, 0; from 1088-1108, loops=22,chars=20,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6070500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 552 (0 ms): 0, 0, 0, 0; from 1088-1109, loops=24,chars=21,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6081000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 553 (0 ms): 0, 0, 0, 0; from 1088-1110, loops=25,chars=22,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6092000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 554 (0 ms): 0, 0, 0, 0; from 1088-1111, loops=27,chars=23,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6103500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 8 ms
+scanning run 555 (0 ms): 0, 0, 0, 0; from 1088-1112, loops=28,chars=24,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6115500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 556 (0 ms): 0, 0, 0, 0; from 1088-1113, loops=29,chars=25,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6128000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 557 (0 ms): 0, 0, 0, 0; from 1088-1114, loops=30,chars=26,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6141000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 558 (0 ms): 0, 0, 0, 0; from 1088-1115, loops=31,chars=27,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6154500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 559 (0 ms): 0, 0, 0, 0; from 1088-1116, loops=32,chars=28,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6168500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 560 (0 ms): 0, 0, 0, 0; from 1088-1117, loops=33,chars=29,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6183000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 561 (0 ms): 0, 0, 0, 0; from 1088-1118, loops=34,chars=30,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6198000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 562 (0 ms): 0, 0, 0, 0; from 1088-1119, loops=35,chars=31,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6213500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 563 (0 ms): 0, 0, 0, 0; from 1088-1120, loops=36,chars=32,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6229500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 564 (0 ms): 0, 0, 0, 0; from 1088-1121, loops=37,chars=33,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6246000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 565 (0 ms): 0, 0, 0, 0; from 1088-1122, loops=39,chars=34,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6263000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 7 ms
+scanning run 566 (0 ms): 0, 0, 0, 0; from 1088-1123, loops=40,chars=35,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6280500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 567 (0 ms): 0, 0, 0, 0; from 1088-1124, loops=41,chars=36,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6298500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 568 (0 ms): 0, 0, 0, 0; from 1088-1125, loops=42,chars=37,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6317000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 569 (0 ms): 0, 0, 0, 0; from 1088-1126, loops=43,chars=38,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6336000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 570 (0 ms): 0, 0, 0, 0; from 1088-1127, loops=44,chars=39,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6355500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 571 (0 ms): 0, 0, 0, 0; from 1088-1128, loops=45,chars=40,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6375500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 572 (0 ms): 0, 0, 0, 0; from 1088-1158, loops=79,chars=70,blocks 1/1 (0) contexts 0/0 (0) scancache 118
+memory scancache 118(2Kb+4Kb) found 47(1Kb) fcontext 12(0Kb) = 9Kb
+average 6410500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 573 (0 ms): 0, 0, 0, 0; from 1088-1131, loops=50,chars=43,blocks 0/0 (0) contexts 0/0 (0) scancache 118
+memory scancache 118(2Kb+4Kb) found 47(1Kb) fcontext 12(0Kb) = 9Kb
+average 6432000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 574 (0 ms): 0, 0, 0, 0; from 1128-1132, loops=7,chars=4,blocks 0/0 (0) contexts 0/0 (0) scancache 118
+memory scancache 118(2Kb+4Kb) found 47(1Kb) fcontext 12(0Kb) = 9Kb
+average 6434000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 575 (0 ms): 0, 0, 0, 0; from 1128-1133, loops=8,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 118
+memory scancache 118(2Kb+4Kb) found 47(1Kb) fcontext 12(0Kb) = 9Kb
+average 6436500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 576 (0 ms): 0, 0, 0, 0; from 1128-1134, loops=9,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 118
+memory scancache 118(2Kb+4Kb) found 47(1Kb) fcontext 12(0Kb) = 9Kb
+average 6439500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 577 (0 ms): 0, 0, 0, 0; from 1128-1135, loops=10,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 118
+memory scancache 118(2Kb+4Kb) found 47(1Kb) fcontext 12(0Kb) = 9Kb
+average 6443000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 578 (0 ms): 0, 0, 0, 0; from 1128-1136, loops=11,chars=8,blocks 0/0 (0) contexts 0/0 (0) scancache 118
+memory scancache 118(2Kb+4Kb) found 47(1Kb) fcontext 12(0Kb) = 9Kb
+average 6447000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 579 (0 ms): 0, 0, 0, 0; from 1128-1137, loops=13,chars=9,blocks 0/0 (0) contexts 0/0 (0) scancache 118
+memory scancache 118(2Kb+4Kb) found 47(1Kb) fcontext 12(0Kb) = 9Kb
+average 6451500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 580 (0 ms): 0, 0, 0, 0; from 1128-1138, loops=14,chars=10,blocks 0/0 (0) contexts 0/0 (0) scancache 118
+memory scancache 118(2Kb+4Kb) found 47(1Kb) fcontext 12(0Kb) = 9Kb
+average 6456500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 581 (0 ms): 0, 0, 0, 0; from 1128-1139, loops=15,chars=11,blocks 0/0 (0) contexts 0/0 (0) scancache 118
+memory scancache 118(2Kb+4Kb) found 47(1Kb) fcontext 12(0Kb) = 9Kb
+average 6462000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 582 (0 ms): 0, 0, 0, 0; from 1128-1274, loops=175,chars=146,blocks 3/3 (0) contexts 0/0 (0) scancache 119
+memory scancache 119(2Kb+4Kb) found 48(1Kb) fcontext 12(0Kb) = 9Kb
+average 6535000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 2 ms
+scanning run 583 (0 ms): 0, 0, 0, 0; from 1128-1141, loops=18,chars=13,blocks 0/0 (0) contexts 0/0 (0) scancache 119
+memory scancache 119(2Kb+4Kb) found 48(1Kb) fcontext 12(0Kb) = 9Kb
+average 6541500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 584 (0 ms): 0, 0, 0, 0; from 1138-1142, loops=7,chars=4,blocks 0/0 (0) contexts 0/0 (0) scancache 119
+memory scancache 119(2Kb+4Kb) found 48(1Kb) fcontext 12(0Kb) = 9Kb
+average 6543500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 585 (0 ms): 0, 0, 0, 0; from 1138-1143, loops=8,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 119
+memory scancache 119(2Kb+4Kb) found 48(1Kb) fcontext 12(0Kb) = 9Kb
+average 6546000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 586 (0 ms): 0, 0, 0, 0; from 1138-1144, loops=9,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 119
+memory scancache 119(2Kb+4Kb) found 48(1Kb) fcontext 12(0Kb) = 9Kb
+average 6549000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 587 (0 ms): 0, 0, 0, 0; from 1138-1279, loops=169,chars=141,blocks 2/4 (0) contexts 0/0 (0) scancache 120
+memory scancache 120(2Kb+4Kb) found 48(1Kb) fcontext 12(0Kb) = 9Kb
+average 6619500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 2 ms
+scanning run 588 (0 ms): 0, 0, 0, 0; from 1088-1146, loops=70,chars=58,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6648500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 589 (0 ms): 0, 0, 0, 0; from 1143-1146, loops=5,chars=3,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6650000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 590 (0 ms): 0, 0, 0, 0; from 1592-1618, loops=29,chars=26,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6663000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 591 (0 ms): 0, 0, 0, 0; from 1592-1621, loops=32,chars=29,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6677500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 592 (0 ms): 0, 0, 0, 0; from 1618-1623, loops=7,chars=5,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6680000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 8 ms
+scanning run 593 (0 ms): 0, 0, 0, 0; from 1618-1624, loops=8,chars=6,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6683000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 594 (0 ms): 0, 0, 0, 0; from 1618-1625, loops=9,chars=7,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6686500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 595 (0 ms): 0, 0, 0, 0; from 1618-1626, loops=10,chars=8,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6690500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 596 (0 ms): 0, 0, 0, 0; from 1618-1627, loops=11,chars=9,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6695000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 597 (0 ms): 0, 0, 0, 0; from 1618-1628, loops=12,chars=10,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6700000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 598 (0 ms): 0, 0, 0, 0; from 1618-1629, loops=13,chars=11,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6705500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 599 (0 ms): 0, 0, 0, 0; from 1618-1630, loops=14,chars=12,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6711500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 600 (0 ms): 0, 0, 0, 0; from 1618-1631, loops=15,chars=13,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6718000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 601 (0 ms): 0, 0, 0, 0; from 1618-1632, loops=16,chars=14,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6725000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 602 (0 ms): 0, 0, 0, 0; from 1618-1633, loops=17,chars=15,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6732500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 603 (0 ms): 0, 0, 0, 0; from 1618-1634, loops=19,chars=16,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6740500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 604 (0 ms): 0, 0, 0, 0; from 1618-1635, loops=20,chars=17,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6749000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 0 ms
+scanning run 605 (0 ms): 0, 0, 0, 0; from 1618-1636, loops=21,chars=18,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6758000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 606 (0 ms): 0, 0, 0, 0; from 1618-1637, loops=23,chars=19,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6767500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 607 (0 ms): 0, 0, 0, 0; from 1618-1638, loops=24,chars=20,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6777500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 608 (0 ms): 0, 0, 0, 0; from 1618-1639, loops=25,chars=21,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6788000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 609 (0 ms): 0, 0, 0, 0; from 1618-1640, loops=26,chars=22,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6799000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 610 (0 ms): 0, 0, 0, 0; from 1618-1641, loops=27,chars=23,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6810500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 611 (0 ms): 0, 0, 0, 0; from 1618-1642, loops=28,chars=24,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6822500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 612 (0 ms): 0, 0, 0, 0; from 1618-1643, loops=29,chars=25,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6835000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 613 (0 ms): 0, 0, 0, 0; from 1618-1644, loops=30,chars=26,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6848000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 614 (0 ms): 0, 0, 0, 0; from 1618-1645, loops=31,chars=27,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6861500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 615 (0 ms): 0, 0, 0, 0; from 1618-1646, loops=32,chars=28,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6875500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 616 (0 ms): 0, 0, 0, 0; from 1618-1647, loops=33,chars=29,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6890000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 617 (0 ms): 0, 0, 0, 0; from 1618-1648, loops=34,chars=30,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6905000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 618 (0 ms): 0, 0, 0, 0; from 1618-1649, loops=35,chars=31,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6920500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 619 (0 ms): 0, 0, 0, 0; from 1618-1650, loops=36,chars=32,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6936500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 620 (0 ms): 0, 0, 0, 0; from 1618-1651, loops=37,chars=33,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6953000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 621 (0 ms): 0, 0, 0, 0; from 1651-1698, loops=57,chars=47,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 6976500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 622 (0 ms): 0, 0, 0, 0; from 1651-1699, loops=59,chars=48,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 7000500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 623 (0 ms): 0, 0, 0, 0; from 1651-1700, loops=60,chars=49,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 7025000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 624 (0 ms): 0, 0, 0, 0; from 1651-1701, loops=62,chars=50,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 7050000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 8 ms
+scanning run 625 (0 ms): 0, 0, 0, 0; from 1651-1702, loops=63,chars=51,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 7075500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 2 ms
+scanning run 626 (0 ms): 0, 0, 0, 0; from 1651-1703, loops=64,chars=52,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 7101500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 3 ms
+scanning run 627 (0 ms): 0, 0, 0, 0; from 1651-1704, loops=65,chars=53,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 7128000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 628 (0 ms): 0, 0, 0, 0; from 1651-1705, loops=66,chars=54,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 7155000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 629 (0 ms): 0, 0, 0, 0; from 1651-1706, loops=67,chars=55,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 7182500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 630 (0 ms): 0, 0, 0, 0; from 1651-1707, loops=68,chars=56,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 7210500 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 631 (0 ms): 0, 0, 0, 0; from 1651-1708, loops=69,chars=57,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 7239000 chars/s 22 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 632 (0 ms): 0, 0, 0, 0; from 1651-1709, loops=70,chars=58,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 7268000 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 1 ms
+scanning run 633 (0 ms): 0, 0, 0, 0; from 1651-1710, loops=71,chars=59,blocks 0/0 (0) contexts 0/0 (0) scancache 116
+memory scancache 116(2Kb+4Kb) found 46(1Kb) fcontext 12(0Kb) = 8Kb
+average 7297500 chars/s 23 chars/run
+Nothing to scan anymore, total run timer took 1 ms
