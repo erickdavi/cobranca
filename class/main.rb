@@ -73,14 +73,14 @@ class Cobranca
 		end	
 	end
 
-	def indice_cadastro(mat)
-		cadastro_indice = self.init_cad.index do |cad_linha|
-			cad_linha[:Mat] == mat
-		end
-	end
-	def indice_devedores(mat)
-		devedores_indice = self.init_dev.index do |dev_linha|
-			dev_linha[:Mat] == mat
-		end
-	end
+
+	def busca_matricula(matricula)
+		indice_aluno = @cache_cadastro.index {|l|l[:Mat] == matricula}
+		boletos_pendentes = @cache_devedores.seach_by
+		out = "Ano de débitos: #{@ano}\n"
+		out += "Nome do Aluno: #{@cache_cadastro[indice_aluno][:Nome]}\n"
+		out += "Boletos pendentes:"
+		
+				
+	end	
 end
