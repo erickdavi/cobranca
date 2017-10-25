@@ -1,4 +1,3 @@
-
 class Cobranca
 	attr_accessor :ano
 	def initialize(ano)
@@ -10,8 +9,7 @@ class Cobranca
 		@dir_input = ["../in/cadastro/", "../in/devedores/"]
 		@arq_base0 = @dir_input[0]+ano.to_s+'.csv'
 		@arq_base1 = @dir_input[1]+ano.to_s+'.csv'
-		@arq_output = "../out/"+ano.to_s+".csv"	
-		
+		@arq_output = "../out/"+ano.to_s+".csv"		
 		self.init_cad
 		self.init_dev	
 	end
@@ -23,11 +21,11 @@ class Cobranca
 					coluna = linha.split(',')
 					cacheline = 
 					{
-						Mat: coluna[0], Nome: coluna[1], Telefone: coluna[2], TelEmpresaMae: coluna[3], 
-						TelEmpresaPai: coluna[4], AnoLetivo: coluna[5], Descricao: coluna[6], 
-						Serie: coluna[7], Turma: coluna[8], Turno: coluna[9], Numero: coluna[10],
-						FilhoFuncionario: coluna[11],Situacao: coluna[12], NomeMae: coluna[13],
-						NomePai: coluna[14], NomeResp: coluna[15]
+						Mat: coluna[0].chomp, Nome: coluna[1].chomp, Telefone: coluna[2].chomp, TelEmpresaMae: coluna[3].chomp, 
+						TelEmpresaPai: coluna[4].chomp, AnoLetivo: coluna[5].chomp, Descricao: coluna[6].chomp, 
+						Serie: coluna[7].chomp, Turma: coluna[8].chomp, Turno: coluna[9].chomp, Numero: coluna[10].chomp,
+						FilhoFuncionario: coluna[11].chomp,Situacao: coluna[12].chomp, NomeMae: coluna[13].chomp,
+						NomePai: coluna[14].chomp, NomeResp: coluna[15].chomp
 					}
 					@cache_cadastro.push(cacheline)
 				end
@@ -48,8 +46,8 @@ class Cobranca
 					coluna = linha.split(',')
 					cacheline =
 						{
-							Mat: coluna[0],	Descricao: coluna[1],	DtVenc: coluna[2],	Valor: coluna[3],	
-							NomeResp: coluna[4], TelefoneResp: coluna[5], cpfresp: coluna[6]
+							Mat: coluna[0].chomp, Descricao: coluna[1].chomp,	DtVenc: coluna[2].chomp,	Valor: coluna[3].chomp,	
+							NomeResp: coluna[4].chomp, TelefoneResp: coluna[5].chomp, cpfresp: coluna[6].chomp
 						}
 					@cache_devedores.push(cacheline)
 				end
@@ -72,15 +70,38 @@ class Cobranca
 			out = false			
 		end	
 	end
-
-
-	def busca_matricula(matricula)
-		indice_aluno = @cache_cadastro.index {|l|l[:Mat] == matricula}
-		boletos_pendentes = @cache_devedores.seach_by
-		out = "Ano de débitos: #{@ano}\n"
-		out += "Nome do Aluno: #{@cache_cadastro[indice_aluno][:Nome]}\n"
-		out += "Boletos pendentes:"
-		
-				
+	def join_tabs
+		out = Array.new
+		alunos = @cache_cadastro
+		dividas = @cache_devedores
+		alunos.product(dividas) do |arr|
+			if arr[0][:Mat] == arr[1][:Mat]
+				instituicao = "COLÉGIO EUCARÍSTICO".chomp
+				responsavel = arr[1][:NomeResp].chomp
+				cpf = arr[1][:cpfresp].chomp
+				logradouro_res = "".chomp
+				bairro_res = "".chomp
+				cidade_res = "".chomp
+				uf_res = "".chomp
+				cep_res = "".chomp
+				tel_res = "".chomp
+				tel_com = "".chomp
+				cel = arr[1][:TelefoneResp].chomp
+				nome_aluno = arr[0][:Nome].chomp
+				curso = arr[0][:Descricao].chomp
+				matricula = arr[0][:Mat].chomp
+				parcela = arr[1][:DtVenc].split("/")[1].chomp
+				vencimento = arr[1][:DtVenc].chomp
+				valor = arr[1][:Valor].chomp
+				ln = {
+					Inst: instituicao, Resp: responsavel, CPF: cpf, Log: logradouro_res, Bairro: bairro_res, 
+					Cidade: cidade_res, UF: uf_res, CEP: cep_res, Tel: tel_res, TelCom: tel_com, Cel: cel, 
+					Aluno: nome_aluno, Curso: curso, Matr: matricula, Parc: parcela, Venc: vencimento, Val: valor
+				}
+				out.push(ln) 	
+			end	
+			
+		end
+	puts out	
 	end	
 end
