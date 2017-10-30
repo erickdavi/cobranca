@@ -5,13 +5,14 @@ class Cobranca
 		@ano = ano
 		@cache_cadastro = Array.new
 		@cache_devedores = Array.new
-		@cache_out
+		@pre_cache_out = Array.new
 		@dir_input = ["../in/cadastro/", "../in/devedores/"]
 		@arq_base0 = @dir_input[0]+ano.to_s+'.csv'
 		@arq_base1 = @dir_input[1]+ano.to_s+'.csv'
 		@arq_output = "../out/"+ano.to_s+".csv"		
 		self.init_cad
 		self.init_dev	
+		self.join_tabs
 	end
 
 	protected def init_cad
@@ -66,6 +67,8 @@ class Cobranca
 			out = @cache_devedores
 		elsif esp == "cad"
 			out = @cache_cadastro
+		elsif esp == "ano"
+			out @ano
 		else
 			out = false			
 		end	
@@ -102,6 +105,6 @@ class Cobranca
 			end	
 			
 		end
-	puts out	
+	@pre_cache_out = out	
 	end	
 end
