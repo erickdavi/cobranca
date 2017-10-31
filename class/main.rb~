@@ -9,10 +9,9 @@ class Cobranca
 		@dir_input = ["../in/cadastro/", "../in/devedores/"]
 		@arq_base0 = @dir_input[0]+ano.to_s+'.csv'
 		@arq_base1 = @dir_input[1]+ano.to_s+'.csv'
-		@arq_output = "../out/"+ano.to_s+".csv"		
+		@arq_output = "../out/#{ano.to_s}.csv"
 		self.init_cad
-		self.init_dev	
-		self.join_tabs
+		self.init_dev
 	end
 
 	protected def init_cad
@@ -79,16 +78,16 @@ class Cobranca
 		dividas = @cache_devedores
 		alunos.product(dividas) do |arr|
 			if arr[0][:Mat] == arr[1][:Mat]
-				instituicao = "COLÉGIO EUCARÍSTICO".chomp
+				instituicao = "COLÉGIO EUCARÍSTICO"
 				responsavel = arr[1][:NomeResp].chomp
 				cpf = arr[1][:cpfresp].chomp
-				logradouro_res = "".chomp
-				bairro_res = "".chomp
-				cidade_res = "".chomp
-				uf_res = "".chomp
-				cep_res = "".chomp
-				tel_res = "".chomp
-				tel_com = "".chomp
+				logradouro_res = ""
+				bairro_res = ""
+				cidade_res = ""
+				uf_res = ""
+				cep_res = ""
+				tel_res = ""
+				tel_com = ""
 				cel = arr[1][:TelefoneResp].chomp
 				nome_aluno = arr[0][:Nome].chomp
 				curso = arr[0][:Descricao].chomp
@@ -107,4 +106,13 @@ class Cobranca
 		end
 	@pre_cache_out = out	
 	end	
+	def format_tab(tab)
+		fcache = "Instituição,Nome do Responsável,Cpf/Cnpj,Logradouro_res,Bairro_res,Cidade_res,UF_res,Cep_Res,Tel_Res,Tel_com,Tel_cel,Nome do Aluno,Curso,Matricula,Parcela,Vencimento,Valor\n"
+		
+		tab.each	do |line|
+			fcache = fcache + "#{line[:Inst]},#{line[:Resp]},#{line[:CPF]},#{line[:Log]},#{line[:Bairro]},#{line[:Cidade]},#{line[:UF]},#{line[:CEP]},#{line[:Tel]},#{line[:TelCom]},#{line[:Cel]},#{line[:Aluno]},#{line[:Curso]},#{line[:Matr]},#{line[:Parc]},#{line[:Venc]},#{line[:Val]}\n"
+		end
+		File.new(@arq_output,'w').puts(fcache)	
+		return fcache
+	end
 end
